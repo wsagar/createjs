@@ -1,0 +1,12 @@
+.maindiv {
+  color: aqua;
+  background: transparent;
+  background-color: azure;
+  padding: 6px 0 2px 0;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 15px-5px rebeccapurple;
+}
+
+button:hover {
+  background-color: green;
+}

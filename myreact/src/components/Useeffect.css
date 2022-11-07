@@ -1,0 +1,10 @@
+.maindiv {
+  background-color: green;
+}
+#content {
+  text-align: center;
+}
+.text {
+  text-align: center;
+  align-items: center;
+}
